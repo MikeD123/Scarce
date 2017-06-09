@@ -16,6 +16,8 @@ After missing out on the Brave browser token sale, I spent hours trying to line 
 
 ![Alt text](http://i.imgur.com/v5gCFzD.png)
 
+![Alt text](http://i.imgur.com/hu2JW06.png)
+
 ## Example
 - Scarce utilizes smart contracts to allow trustless trade of tokens. We find token holders who wish to rest their tokens in a smart contract awaiting a purchaser to pay a premium. 
 - Example: 1 ETH = 1000 COIN. I deposit 1 ETH into this smart contract. It carries a premium of 20% of the purchase price. So my 1 ETH gets me 800 COIN. As I make the deposit to the specified address, it is released automatically to my address.
