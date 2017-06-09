@@ -14,9 +14,9 @@ After missing out on the Brave browser token sale, I spent hours trying to line 
 
 ![Alt text](http://i.imgur.com/uchSzLr.png)
 
-![Alt text](http://i.imgur.com/v5gCFzD.png)
-
 ![Alt text](http://i.imgur.com/hu2JW06.png)
+
+![Alt text](http://i.imgur.com/v5gCFzD.png)
 
 ## Example
 - Scarce utilizes smart contracts to allow trustless trade of tokens. We find token holders who wish to rest their tokens in a smart contract awaiting a purchaser to pay a premium. 
