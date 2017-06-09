@@ -1,7 +1,4 @@
 ![Alt text](http://i.imgur.com/uMphVJr.jpg)
-![Alt text](http://i.imgur.com/uMphVJr.jpg)
-![Alt text](http://i.imgur.com/uMphVJr.jpg)
-<img align="left" src="http://i.imgur.com/uMphVJr.jpg" alt="logo">
 
 # Scarce
 Scarce is an application built on Ethereum/Token which aims to be a second market for people missing out on ICO's. Think Stubhub meets Smart Contracts meets Tokens.
