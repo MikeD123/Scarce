@@ -35,5 +35,5 @@ As ICO's become more prevelant, and protocol tokens become more required for usa
 
 There's a ton of holes here but I only got started on this like 20 hours before entry (You can confirm that with Mark who was assisting me in the slack channel. Hahaha...)
 
-I think this has a lot of cool potential, and would love any feedback! 
-Thanks so much.
+Regardless, super enjoyable learning experience! 
+Thanks so much!
